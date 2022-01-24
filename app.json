@@ -1,5 +1,5 @@
 {
-	"name": "MQ Heroku Connect Demo",
+	"name": "Heroku Connect Demo",
 	"description": "Heroku Connect sample App for Demo",
 	"repository": "https://github.com/mkbabu8868/MercConnectDemo",
 	"success_url": "/setup.html",
