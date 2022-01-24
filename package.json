@@ -1,5 +1,5 @@
 {
-	"name": "MQ Heroku Connect Demo",
+	"name": "HerokuConnectDemo",
 	"version": "0.0.0",
 	"description": "Heroku Connect sample App for Demo",
 	"main": "server.js",
